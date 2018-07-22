@@ -949,6 +949,9 @@
             },
             "H2": {
               "color": "#ffffff"
+            },
+            "LABEL": {
+              "color": "#ffffff"
             }
           },
           "_name": "form1",
