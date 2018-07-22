@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "PA Toolkit",
-        "meta_descr": "",
+        "title": "Performance Assessments",
+        "meta_descr": "A set of ready-to-use resources for designing and reviewing performance assessments.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
